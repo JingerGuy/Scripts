@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 echo "Installing Docker"
 
 sudo apt update
